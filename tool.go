@@ -11,3 +11,7 @@ func He() string {
 func H() string {
 	return "H from tool project"
 }
+
+func H2() string {
+	return "H2 tag from tool project"
+}
