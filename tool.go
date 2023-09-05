@@ -5,9 +5,9 @@ func Hello() string {
 }
 
 func He() string {
-	return "hello from tool project"
+	return "He from tool project"
 }
 
 func H() string {
-	return "hello from tool project"
+	return "H from tool project"
 }
